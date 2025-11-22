@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CinemaManager.Models.Ticket>
+@{
+    ViewData["Title"] = "Relatório de Vendas";
+}
+
+<h1><i class="bi bi-graph-up"></i> Relatório Geral de Vendas</h1>
+<hr />
+
+<div class="card bg-dark text-white mb-4 border-danger">
+    <div class="card-body">
+        <h5 class="card-title">Resumo</h5>
+        <div class="row text-center">
+            <div class="col-md-4">
+                <h3>@Model.Count()</h3>
+                <small>Total de Ingressos</small>
+            </div>
+            <div class="col-md-4">
+                <h3 class="text-success">@Model.Sum(t => t.Session.Price).ToString("C")</h3>
+                <small>Faturamento Total</small>
+            </div>
+            <div class="col-md-4">
+                <h3>@Model.Select(t => t.Session.MovieId).Distinct().Count()</h3>
+                <small>Filmes Diferentes</small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-hover table-dark table-sm">
+        <thead>
+            <tr>
+                <th>#ID</th>
+                <th>Data Venda</th>
+                <th>Filme</th>
+                <th>Cliente (Sistema)</th>
+                <th>Cliente (Balcão)</th>
+                <th>Valor</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.PurchaseDate.ToString("dd/MM/yy HH:mm")</td>
+                    <td>@item.Session.Movie.Title</td>
+                    <td>@item.ApplicationUser.FullName</td>
+                    <td>@(item.CustomerName ?? "-")</td>
+                    <td>@item.Session.Price.ToString("C")</td>
+                    <td>
+                        <a asp-action="Receipt" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary"><i class="bi bi-eye"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

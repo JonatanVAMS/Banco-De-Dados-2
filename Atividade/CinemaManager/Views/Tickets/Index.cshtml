@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CinemaManager.Models.Session>
+
+@{
+    ViewData["Title"] = "Sessões Disponíveis";
+}
+
+<h1><i class="bi bi-ticket-perforated"></i> Sessões Disponíveis para Venda</h1>
+<hr />
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Não há sessões disponíveis no momento.</div>
+}
+
+@foreach (var grupoFilme in Model.GroupBy(s => s.Movie))
+{
+    var movie = grupoFilme.Key;
+    <div class="card mb-3 shadow-sm">
+        <div class="row g-0">
+            <div class="col-md-2 d-none d-md-block">
+                <img src="@movie.PosterUrl" class="img-fluid rounded-start" alt="@movie.Title" style="height: 100%; object-fit: cover;">
+            </div>
+            <div class="col-md-10">
+                <div class="card-body">
+                    <h4 class="card-title">@movie.Title</h4>
+                    <p class="card-text">@movie.Description</p>
+                    <p class="card-text"><small class="text-muted">@movie.DurationMinutes min | @movie.Rating | @movie.Genre</small></p>
+
+                    <h5>Horários disponíveis:</h5>
+                    <div>
+                        @foreach (var session in grupoFilme.OrderBy(s => s.ScheduledTime))
+                        {
+                            <a asp-action="Purchase" asp-route-id="@session.Id"
+                               class="btn btn-outline-success m-1 @(session.AvailableSeats == 0 ? "disabled" : "")">
+                                <strong>@session.ScheduledTime.ToString("HH:mm")</strong> <br />
+                                <small>@session.Room.Name - @session.Room.Type</small><br>
+                                @if (session.AvailableSeats == 0)
+                                {
+                                    <span class="badge bg-danger">LOTADO</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-success">@session.AvailableSeats VAGOS</span>
+                                }
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

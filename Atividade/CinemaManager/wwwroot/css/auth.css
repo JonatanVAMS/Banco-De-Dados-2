@@ -1,0 +1,101 @@
+﻿body.auth-page {
+    background-color: #000;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+ 
+    justify-content: flex-start;
+    min-height: 100vh;
+    margin: 0;
+    position: relative;
+    overflow-y: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    transition: background-image 1.0s ease-in-out;
+}
+
+    body.auth-page::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.7); 
+        z-index: 1; 
+    }
+
+    body.auth-page main {
+        position: relative;
+        z-index: 2; 
+        background: rgba(255, 255, 255, 0.95); 
+        padding: 30px 40px;
+        border-radius: 10px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        width: 100%;
+        max-width: 450px;
+    }
+
+    body.auth-page h1,
+    body.auth-page h2 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 25px;
+        font-weight: 600;
+    }
+
+    body.auth-page .form-floating label {
+        color: #666;
+    }
+
+    body.auth-page .form-control:focus {
+        border-color: #0d6efd;
+        box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    }
+
+    body.auth-page .btn-primary {
+        background-color: #e50914; 
+        border-color: #e50914;
+        font-weight: bold;
+        padding: 10px 0;
+        font-size: 1.1rem;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+        body.auth-page .btn-primary:hover {
+            background-color: #b2070c;
+            border-color: #b2070c;
+        }
+
+  
+    body.auth-page p a,
+    body.auth-page .forgot-password a {
+        color: #0d6efd;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+        body.auth-page p a:hover,
+        body.auth-page .forgot-password a:hover {
+            text-decoration: underline;
+        }
+
+    
+    body.auth-page .text-danger {
+        font-size: 0.875rem;
+    }
+
+
+    body.auth-page .form-check-label {
+        font-size: 0.9rem;
+    }
+
+    
+    body.auth-page header,
+    body.auth-page footer {
+        display: none;
+    }

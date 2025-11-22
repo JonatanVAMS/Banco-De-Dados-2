@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\",
+  "WorkspaceRootPath": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|d:\\materiais ciencia da computa\u00E7\u00E3o\\banco-de-dados2\\banco-de-dados-2\\atividade\\projetofinal\\atividade1-migrations\\scaffolding\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|c:\\materiais ciencia da computa\u00E7\u00E3o\\banco-de-dados2\\banco-de-dados-2\\atividade\\projetofinal\\atividade1-migrations\\scaffolding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|d:\\materiais ciencia da computa\u00E7\u00E3o\\banco-de-dados2\\banco-de-dados-2\\atividade\\projetofinal\\atividade1-migrations\\scaffolding\\data\\unoescbd2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|solutionrelative:data\\unoescbd2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|c:\\materiais ciencia da computa\u00E7\u00E3o\\banco-de-dados2\\banco-de-dados-2\\atividade\\projetofinal\\atividade1-migrations\\scaffolding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|c:\\materiais ciencia da computa\u00E7\u00E3o\\banco-de-dados2\\banco-de-dados-2\\atividade\\projetofinal\\atividade1-migrations\\scaffolding\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD115D4-E54F-4C9E-8AE2-C04D21BAACCD}|Scaffolding.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 515,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T00:35:34.5Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T00:35:43.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -30,29 +61,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnoescBd2Context.cs",
-              "DocumentMoniker": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Data\\UnoescBd2Context.cs",
-              "RelativeDocumentMoniker": "Data\\UnoescBd2Context.cs",
-              "ToolTip": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Data\\UnoescBd2Context.cs",
-              "RelativeToolTip": "Data\\UnoescBd2Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T23:29:42.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CoursesController.cs",
-              "DocumentMoniker": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Controllers\\CoursesController.cs",
+              "DocumentMoniker": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
-              "ToolTip": "D:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Materiais Ciencia da Computa\u00E7\u00E3o\\Banco-de-dados2\\Banco-De-Dados-2\\Atividade\\ProjetoFinal\\Atividade1-Migrations\\Scaffolding\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T23:30:27.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T23:30:27.938Z"
             }
           ]
         }

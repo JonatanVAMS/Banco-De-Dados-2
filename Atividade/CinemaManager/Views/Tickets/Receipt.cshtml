@@ -1,0 +1,160 @@
+﻿@model CinemaManager.Models.Ticket
+@{
+    ViewData["Title"] = "Ingresso";
+}
+
+<style>
+    /* Estilo do Ingresso na Tela */
+    .ticket-container {
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: #fff;
+        color: #000;
+        border-radius: 15px;
+        overflow: hidden;
+        border: 2px solid #E50914; /* Borda vermelha do cinema */
+    }
+
+    .ticket-header {
+        background-color: #E50914;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        /* Força a impressão da cor de fundo */
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .ticket-body {
+        padding: 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .ticket-info h2 {
+        font-weight: 800;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+        font-size: 2rem;
+    }
+
+    .ticket-detail {
+        margin-bottom: 10px;
+        font-size: 1.1rem;
+        border-bottom: 1px dashed #ccc;
+        padding-bottom: 5px;
+    }
+
+    .ticket-label {
+        font-weight: bold;
+        color: #555;
+        width: 100px;
+        display: inline-block;
+    }
+
+    .ticket-qr {
+        text-align: center;
+        border-left: 2px dashed #ccc;
+        padding-left: 30px;
+    }
+
+    /* REGRAS DE IMPRESSÃO */
+    @@media print {
+        body * {
+            visibility: hidden;
+        }
+
+        #printable-area, #printable-area * {
+            visibility: visible;
+        }
+
+        #printable-area {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            border: none;
+        }
+
+        .no-print {
+            display: none !important;
+        }
+        /* Força cores na impressão */
+        .ticket-header {
+            background-color: #E50914 !important;
+            -webkit-print-color-adjust: exact;
+        }
+    }
+</style>
+
+<div class="row justify-content-center mt-4">
+    <div class="col-12">
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success no-print text-center">@TempData["Success"]</div>
+        }
+
+       
+        <div id="printable-area" class="ticket-container shadow">
+            <div class="ticket-header">
+                <h3 class="m-0 fw-bold">CINE SIMBIOSE</h3>
+                <small>Ingresso Oficial</small>
+            </div>
+
+            <div class="ticket-body">
+              
+                <div class="ticket-info flex-grow-1">
+                    <h2 style="color: #000 !important;">@Model.Session.Movie.Title</h2>
+
+                    <div class="ticket-detail">
+                        <span class="ticket-label">SALA:</span> @Model.Session.Room.Name (@Model.Session.Room.Type)
+                    </div>
+                    <div class="ticket-detail">
+                        <span class="ticket-label">DATA:</span> @Model.Session.ScheduledTime.ToString("dd/MM/yyyy")
+                    </div>
+                    <div class="ticket-detail">
+                        <span class="ticket-label">HORÁRIO:</span> @Model.Session.ScheduledTime.ToString("HH:mm")
+                    </div>
+                    <div class="ticket-detail">
+                        <span class="ticket-label">ASSENTO:</span>
+                        <span class="badge bg-danger text-white" style="-webkit-print-color-adjust: exact;">@Model.SeatNumber</span>
+                    </div>
+
+               
+                    <div class="ticket-detail mt-3">
+                        <span class="ticket-label">CLIENTE:</span>
+                        @(Model.CustomerName ?? Model.ApplicationUser.FullName)
+                        @if (!string.IsNullOrEmpty(Model.CustomerCPF))
+                        {
+                            <small>(CPF: @Model.CustomerCPF)</small>
+                        }
+                    </div>
+                </div>
+
+
+                <div class="ticket-qr">
+                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=CINESIMBIOSE-TICKET-@Model.Id" alt="QR Code" />
+                    <div class="mt-2 small text-muted">#@Model.Id</div>
+                    <div class="small text-muted">Autenticação</div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="text-center mt-4 no-print gap-2">
+            @if (User.IsInRole("Cliente"))
+            {
+                <a asp-controller="Tickets" asp-action="MyTickets" class="btn btn-outline-light">Meus Ingressos</a>
+            }
+            else
+            {
+                <a asp-action="Index" class="btn btn-outline-light">Vender Outro</a>
+            }
+
+            <button onclick="window.print()" class="btn btn-danger btn-lg">
+                <i class="bi bi-printer-fill"></i> Imprimir Ingresso
+            </button>
+        </div>
+    </div>
+</div>

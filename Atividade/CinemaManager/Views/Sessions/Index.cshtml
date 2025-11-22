@@ -1,0 +1,44 @@
+﻿@model IEnumerable<CinemaManager.Models.Session>
+
+@{
+    ViewData["Title"] = "Gerenciar Sessões";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1><i class="bi bi-calendar-event"></i> Gerenciar Sessões</h1>
+    <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Adicionar Sessão</a>
+</div>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<table class="table table-striped table-hover shadow-sm bg-white rounded">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Movie)</th>
+            <th>@Html.DisplayNameFor(model => model.Room)</th>
+            <th>@Html.DisplayNameFor(model => model.ScheduledTime)</th>
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>@Html.DisplayNameFor(model => model.AvailableSeats)</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Movie.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Room.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.ScheduledTime)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>@Html.DisplayFor(modelItem => item.AvailableSeats)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary"><i class="bi bi-pencil"></i></a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger"><i class="bi bi-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,44 @@
+﻿@using CinemaManager.Models
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+
+<ul class="nav nav-pills flex-column bg-dark p-3 rounded border border-secondary shadow-sm">
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.IndexNavClass(ViewContext) text-white" id="profile" asp-page="./Index">
+            <i class="bi bi-person-circle me-2"></i> Perfil
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.EmailNavClass(ViewContext) text-white" id="email" asp-page="./Email">
+            <i class="bi bi-envelope-fill me-2"></i> Email
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.ChangePasswordNavClass(ViewContext) text-white" id="change-password" asp-page="./ChangePassword">
+            <i class="bi bi-key-fill me-2"></i> Senha
+        </a>
+    </li>
+
+    @if (User.IsInRole("Cliente"))
+    {
+        <li class="nav-item">
+            <a class="nav-link @ManageNavPages.AddCardNavClass(ViewContext) text-success fw-bold" id="add-card" asp-page="./AddCard">
+                <i class="bi bi-credit-card-fill me-2"></i> Cadastrar Cartão
+            </a>
+        </li>
+    }
+
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext) text-white" id="two-factor" asp-page="./TwoFactorAuthentication">
+            <i class="bi bi-shield-lock-fill me-2"></i> 2FA
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link @ManageNavPages.PersonalDataNavClass(ViewContext) text-white" id="personal-data" asp-page="./PersonalData">
+            <i class="bi bi-file-earmark-person-fill me-2"></i> Dados Pessoais
+        </a>
+    </li>
+</ul>

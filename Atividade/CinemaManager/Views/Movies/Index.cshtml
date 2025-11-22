@@ -1,0 +1,37 @@
+﻿@model IEnumerable<CinemaManager.Models.Movie>
+
+@{
+    ViewData["Title"] = "Gerenciar Filmes";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1><i class="bi bi-film"></i> Gerenciar Filmes</h1>
+    <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Adicionar Novo Filme</a>
+</div>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+                <img src="@(string.IsNullOrEmpty(item.PosterUrl) ? "https://via.placeholder.com/300x450.png?text=Sem+Cartaz" : item.PosterUrl)"
+                     class="card-img-top" alt="@item.Title" style="height: 400px; object-fit: cover;">
+
+                <div class="card-body">
+                    <h5 class="card-title">@item.Title</h5>
+                    <p class="card-text">@item.Description.Substring(0, Math.Min(item.Description.Length, 100))...</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><strong>Gênero:</strong> @item.Genre</li>
+                    <li class="list-group-item"><strong>Duração:</strong> @item.DurationMinutes min</li>
+                    <li class="list-group-item"><strong>Classificação:</strong> @item.Rating</li>
+                </ul>
+                <div class="card-footer bg-white">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary"><i class="bi bi-pencil"></i> Editar</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info"><i class="bi bi-search"></i> Detalhes</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger"><i class="bi bi-trash"></i> Excluir</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

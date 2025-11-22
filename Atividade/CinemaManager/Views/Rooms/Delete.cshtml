@@ -1,0 +1,26 @@
+﻿@model CinemaManager.Models.Room
+
+@{
+    ViewData["Title"] = "Excluir Sala";
+}
+
+<h1 class="text-danger">Excluir Sala</h1>
+
+<h3 class="text-white">Tem certeza que deseja excluir a sala: <span class="text-danger">@Model.Name</span>?</h3>
+<div class="alert alert-warning mt-3">Atenção: A exclusão só será permitida se não houver sessões ativas nesta sala.</div>
+
+<div class="mt-4">
+    <dl class="row text-white">
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.SeatCount)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.SeatCount)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Type)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Type)</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+    </form>
+</div>

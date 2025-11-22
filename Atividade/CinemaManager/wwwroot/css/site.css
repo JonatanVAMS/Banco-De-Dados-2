@@ -1,0 +1,232 @@
+/*
+ * TEMA CINE SIMBIOSE (Dark/Red)
+ */
+
+:root {
+    --cor-fundo-escuro: #141414; 
+    --cor-fundo-secundaria: #1C1C1C; 
+    --cor-texto-principal: #E5E5E5; 
+    --cor-texto-secundaria: #999999;
+    --cor-vermelho-cine: #E50914; 
+    --cor-vermelho-hover: #B2070C;
+    --cor-borda: #333333;
+}
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: var(--cor-fundo-escuro);
+    color: var(--cor-texto-principal);
+    margin-bottom: 60px; 
+    padding-top: 80px; 
+}
+
+h1, h2, h3, h4, h5 {
+    color: var(--cor-texto-principal);
+    font-weight: 600;
+}
+
+a {
+    color: var(--cor-vermelho-cine);
+    text-decoration: none;
+}
+
+    a:hover {
+        color: var(--cor-vermelho-hover);
+        text-decoration: underline;
+    }
+
+.navbar-cine {
+    background-color: var(--cor-fundo-secundaria) !important;
+    border-bottom: 2px solid var(--cor-vermelho-cine) !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+    .navbar-cine .navbar-brand {
+        color: var(--cor-texto-principal);
+        font-weight: 700;
+        font-size: 1.5rem;
+    }
+
+        .navbar-cine .navbar-brand:hover {
+            color: var(--cor-vermelho-cine);
+        }
+
+    .navbar-cine .nav-link {
+        color: var(--cor-texto-secundaria) !important;
+    }
+
+        .navbar-cine .nav-link:hover,
+        .navbar-cine .nav-link.active {
+            color: var(--cor-texto-principal) !important;
+        }
+
+    .navbar-cine .dropdown-menu {
+        background-color: var(--cor-fundo-secundaria);
+        border: 1px solid var(--cor-borda);
+    }
+
+    .navbar-cine .dropdown-item {
+        color: var(--cor-texto-principal);
+    }
+
+        .navbar-cine .dropdown-item:hover {
+            background-color: var(--cor-vermelho-cine);
+            color: var(--cor-texto-principal);
+        }
+
+
+.btn-primary {
+    background-color: var(--cor-vermelho-cine);
+    border-color: var(--cor-vermelho-cine);
+    font-weight: bold;
+}
+
+    .btn-primary:hover {
+        background-color: var(--cor-vermelho-hover);
+        border-color: var(--cor-vermelho-hover);
+    }
+
+.btn-outline-secondary {
+    color: var(--cor-texto-secundaria);
+    border-color: var(--cor-borda);
+}
+
+    .btn-outline-secondary:hover {
+        background-color: var(--cor-fundo-secundaria);
+        border-color: var(--cor-borda);
+        color: var(--cor-texto-principal);
+    }
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+
+.form-control, .form-select {
+    background-color: var(--cor-fundo-secundaria);
+    color: var(--cor-texto-principal);
+    border: 1px solid var(--cor-borda);
+}
+
+    .form-control:focus, .form-select:focus {
+        background-color: var(--cor-fundo-secundaria);
+        color: var(--cor-texto-principal);
+        border-color: var(--cor-vermelho-cine);
+        box-shadow: 0 0 0 0.25rem rgba(229, 9, 20, 0.25);
+    }
+
+    .form-control::placeholder {
+        color: var(--cor-texto-secundaria);
+    }
+
+label.control-label {
+    font-weight: 500;
+}
+
+.card {
+    background-color: var(--cor-fundo-secundaria);
+    border: 1px solid var(--cor-borda);
+    border-radius: 8px;
+    transition: all 0.2s ease-in-out;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+        border-color: var(--cor-vermelho-cine);
+    }
+
+    .card .card-footer,
+    .card .list-group-item {
+        background-color: transparent;
+        border-top: 1px solid var(--cor-borda);
+        color: var(--cor-texto-secundaria);
+    }
+
+    .card .card-footer {
+        background-color: rgba(0,0,0,0.1); 
+    }
+
+.card-title {
+    color: var(--cor-texto-principal);
+}
+
+.card-text {
+    color: var(--cor-texto-secundaria);
+}
+
+
+.table {
+    color: var(--cor-texto-principal);
+    background-color: var(--cor-fundo-secundaria);
+    border-color: var(--cor-borda);
+}
+
+    .table > :not(caption) > * > * {
+        background-color: var(--cor-fundo-secundaria);
+        color: var(--cor-texto-principal);
+        border-bottom-width: 1px;
+        border-color: var(--cor-borda);
+    }
+
+    .table thead th {
+        color: var(--cor-texto-principal);
+        font-weight: 600;
+        border-bottom: 2px solid var(--cor-vermelho-cine) !important;
+    }
+
+.table-hover > tbody > tr:hover > * {
+    background-color: #2a2a2a; 
+    color: var(--cor-texto-principal);
+}
+
+
+.card.border-left-success {
+    border-left-color: #198754 !important;
+}
+
+.card.border-left-info {
+    border-left-color: #0dcaf0 !important;
+}
+
+.card.border-left-primary {
+    border-left-color: #0d6efd !important;
+}
+
+.card.border-left-warning {
+    border-left-color: #ffc107 !important;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    background-color: var(--cor-fundo-secundaria);
+    color: var(--cor-texto-secundaria);
+    border-top: 1px solid var(--cor-borda);
+}
+.border-left-success {
+    border-left: 0.25rem solid #198754 !important;
+}
+
+.border-left-info {
+    border-left: 0.25rem solid #0dcaf0 !important;
+}
+
+.border-left-primary {
+    border-left: 0.25rem solid #0d6efd !important;
+}
+
+.border-left-warning {
+    border-left: 0.25rem solid #ffc107 !important;
+}
+
+

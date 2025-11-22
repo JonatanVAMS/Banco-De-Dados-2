@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CinemaManager</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/auth.css" asp-append-version="true" />
+</head>
+<body class="auth-page">
+    <div class="container d-flex justify-content-center align-items-center flex-grow-1">
+        <main role="main" class="py-5">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const backgrounds = [
+                '/img/posters/interestelar.jpg', 
+                '/img/posters/motoqueiro.jpg', 
+                '/img/posters/venom.jpg', 
+                '/img/posters/anjos.jpg',  
+                '/img/posters/carros.webp',
+                '/img/posters/Dragao.webp',
+            ];
+
+            let currentImageIndex = 0;
+            const body = document.body;
+
+            body.style.backgroundImage = `url('${backgrounds[0]}')`;
+
+            function changeBackground() {
+                currentImageIndex = (currentImageIndex + 1) % backgrounds.length;
+                body.style.backgroundImage = `url('${backgrounds[currentImageIndex]}')`;
+            }
+
+            setInterval(changeBackground, 3000);
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

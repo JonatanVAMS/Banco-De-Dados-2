@@ -1,0 +1,453 @@
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\appsettings.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.staticwebassets.runtime.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.staticwebassets.endpoints.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.exe
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.deps.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.runtimeconfig.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.pdb
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Humanizer.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.csproj.AssemblyReference.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.AssemblyInfoInputs.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.AssemblyInfo.cs
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.csproj.CoreCompileInputs.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.RazorAssemblyInfo.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.RazorAssemblyInfo.cs
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\scopedcss\bundle\Trabalho Cinema.styles.css
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\rmcm7emizg-b9sayid5wm.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\8jwmtmqo6i-61n19gt1b8.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\dg7e7cma0l-xtxxf3hu2r.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kcxxq70pmo-bqjiyaj88i.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\jvx0a44dqc-c2jlpeoesf.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\wfcdisqj34-erw9l3u2r3.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\m48q41wpgv-aexeepp0ev.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\e5atjih61b-d7shbmvgxk.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\acr75rexn3-ausgxo2sd3.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ktzuuxy7lu-k8d9w2qqmf.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\10oyuexf40-cosvhxvwiu.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ep4gn2vpjd-ub07r2b239.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\63vcs5jxw1-fvhpjtyr6v.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\zjf03mp5a5-b7pk76d08c.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\mggwem3ljb-fsbi9cje9m.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ghodwk3jcj-rzd6atqjts.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\z4x7fsohxy-ee0r1s7dh0.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\qyo5by9690-dxx9fxp4il.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\aykukniruh-jd9uben2k1.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\8tv8o9bq2l-khv3u5hwcm.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ebpzabt3iz-r4e9w2rdcm.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\xs7vyccg1s-lcd1t2u6c8.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\4if1v2ati8-c2oey78nd0.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\jl77pcdkl9-tdbxkamptv.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\zinhnjd538-j5mq2jizvt.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\zjk91n2804-06098lyss8.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\cv96bskrvy-nvvlpmu67g.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\x9trbeyrn2-s35ty4nyc5.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\6bfk5xlrbb-pj5nd1wqec.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\6ejmlfst3p-46ein0sx1k.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\fjyub51hx3-v0zj4ognzu.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\yhb4fp83xq-37tfw0ft22.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\x50hepbvt4-hrwsygsryq.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\xuhkgl6f8u-pk9g2wxc8p.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\exoka6aha5-ft3s53vfgj.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\vygudkfdmg-6cfz1n2cew.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kkqmsg4p5j-6pdc2jztkx.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\1fufucrk8x-493y06b0oq.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\2im9o5qpen-iovd86k7lj.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\fx3somy3fp-vr1egmr9el.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kt0vcaneco-kbrnm935zg.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ebs1pq3yl5-jj8uyg4cgr.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\epg6qu9v27-y7v9cxd14o.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\vyys1w9r2g-notf2xhcfb.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\akwjlffotv-h1s4sie4z3.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\io2asajqf3-63fj8s7r0e.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\adf70t568b-0j3bgjxly4.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\9jtj2ntqev-47otxtyo56.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\lgm1jbq5qo-4v8eqarkd7.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\jsgcwyy4rv-356vix0kms.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\odigzz4jk7-83jwlth58m.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\29k5p2k6yb-mrlpezrjn3.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\oy5pgwg7o2-lzl9nlhx6b.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\u9w57e5glm-ag7o75518u.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\fz41nelllz-x0q3zqp4vz.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ynk9x6c77t-0i3buxo5is.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\4ra4901lqx-o1o13a6vjx.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\eoxkr7dwzn-ttgo8qnofa.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\hd9gk1mtfz-2z0ns9nrw6.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\vshjodefyq-muycvpuwrr.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kvee3ljmtc-87fc7y1x7t.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\z9q7hjknc1-mlv21k5csn.gz
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho.56FBEEE6.Up2Date
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\refint\Trabalho Cinema.dll
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.pdb
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.genruntimeconfig.cache
+C:\Users\428915\source\repos\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\ref\Trabalho Cinema.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\appsettings.Development.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\appsettings.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.staticwebassets.runtime.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.staticwebassets.endpoints.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.exe
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.deps.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.runtimeconfig.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Trabalho Cinema.pdb
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Azure.Core.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Azure.Identity.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Humanizer.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.ClientModel.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.CodeDom.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.csproj.AssemblyReference.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.AssemblyInfoInputs.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.AssemblyInfo.cs
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.csproj.CoreCompileInputs.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.RazorAssemblyInfo.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.RazorAssemblyInfo.cs
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.sourcelink.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\scopedcss\bundle\Trabalho Cinema.styles.css
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\rmcm7emizg-b9sayid5wm.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\8jwmtmqo6i-61n19gt1b8.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\dg7e7cma0l-xtxxf3hu2r.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kcxxq70pmo-bqjiyaj88i.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\jvx0a44dqc-c2jlpeoesf.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\wfcdisqj34-erw9l3u2r3.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\m48q41wpgv-aexeepp0ev.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\e5atjih61b-d7shbmvgxk.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\acr75rexn3-ausgxo2sd3.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ktzuuxy7lu-k8d9w2qqmf.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\10oyuexf40-cosvhxvwiu.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ep4gn2vpjd-ub07r2b239.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\63vcs5jxw1-fvhpjtyr6v.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\zjf03mp5a5-b7pk76d08c.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\mggwem3ljb-fsbi9cje9m.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ghodwk3jcj-rzd6atqjts.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\z4x7fsohxy-ee0r1s7dh0.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\qyo5by9690-dxx9fxp4il.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\aykukniruh-jd9uben2k1.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\8tv8o9bq2l-khv3u5hwcm.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ebpzabt3iz-r4e9w2rdcm.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\xs7vyccg1s-lcd1t2u6c8.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\4if1v2ati8-c2oey78nd0.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\jl77pcdkl9-tdbxkamptv.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\zinhnjd538-j5mq2jizvt.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\zjk91n2804-06098lyss8.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\cv96bskrvy-nvvlpmu67g.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\x9trbeyrn2-s35ty4nyc5.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\6bfk5xlrbb-pj5nd1wqec.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\6ejmlfst3p-46ein0sx1k.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\fjyub51hx3-v0zj4ognzu.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\yhb4fp83xq-37tfw0ft22.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\x50hepbvt4-hrwsygsryq.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\xuhkgl6f8u-pk9g2wxc8p.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\exoka6aha5-ft3s53vfgj.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\vygudkfdmg-6cfz1n2cew.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kkqmsg4p5j-6pdc2jztkx.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\1fufucrk8x-493y06b0oq.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\2im9o5qpen-iovd86k7lj.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\fx3somy3fp-vr1egmr9el.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kt0vcaneco-kbrnm935zg.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ebs1pq3yl5-jj8uyg4cgr.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\epg6qu9v27-y7v9cxd14o.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\vyys1w9r2g-notf2xhcfb.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\akwjlffotv-h1s4sie4z3.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\io2asajqf3-63fj8s7r0e.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\adf70t568b-0j3bgjxly4.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\9jtj2ntqev-47otxtyo56.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\lgm1jbq5qo-4v8eqarkd7.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\jsgcwyy4rv-356vix0kms.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\odigzz4jk7-83jwlth58m.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\29k5p2k6yb-mrlpezrjn3.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\oy5pgwg7o2-lzl9nlhx6b.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\u9w57e5glm-ag7o75518u.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\fz41nelllz-x0q3zqp4vz.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\ynk9x6c77t-0i3buxo5is.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\4ra4901lqx-o1o13a6vjx.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\eoxkr7dwzn-ttgo8qnofa.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\hd9gk1mtfz-2z0ns9nrw6.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\vshjodefyq-muycvpuwrr.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\kvee3ljmtc-87fc7y1x7t.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\compressed\z9q7hjknc1-mlv21k5csn.gz
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.build.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.development.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho.56FBEEE6.Up2Date
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\refint\Trabalho Cinema.dll
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.pdb
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\Trabalho Cinema.genruntimeconfig.cache
+C:\Materiais Ciencia da Computação\Banco-de-dados2\Banco-De-Dados-2\Atividade\Trabalho Cinema\Trabalho Cinema\obj\Debug\net9.0\ref\Trabalho Cinema.dll

@@ -1,0 +1,12 @@
+﻿{
+"Logging": {
+"LogLevel": {
+"Default": "Information",
+"Microsoft.AspNetCore": "Warning"
+}
+},
+"AllowedHosts": "*",
+"ConnectionStrings": {
+"DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=CinesimbioseDB_MVC;Trusted_Connection=True;"
+}
+}

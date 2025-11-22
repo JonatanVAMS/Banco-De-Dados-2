@@ -1,0 +1,74 @@
+﻿@page
+@model CinemaManager.Areas.Identity.Pages.Account.Manage.AddCardModel
+@{
+    ViewData["Title"] = "Cadastrar Cartão";
+    ViewData["ActivePage"] = ManageNavPages.AddCard;
+}
+
+<div class="row">
+   
+   
+    <div class="col-md-3">
+        <partial name="_ManageNav" />
+    </div>
+
+    
+    <div class="col-md-9 text-white">
+        <h3 class="text-danger mb-4"><i class="bi bi-credit-card-fill"></i> Cadastrar Novo Cartão</h3>
+        <p class="text-white-50">Seu cartão será salvo de forma segura (tokenizado) para uso em compras online futuras.</p>
+        <hr class="text-white-50" />
+
+        <div class="row">
+            <div class="col-md-8">
+                <form id="add-card-form" method="post" class="bg-dark p-4 rounded shadow-lg border border-secondary">
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+                    <div class="mb-3">
+                        <label class="text-white small fw-bold">Nome Completo no Cartão</label>
+                        <input type="text" class="form-control" placeholder="Nome" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="text-white small fw-bold">Número do Cartão</label>
+                        <input type="text" class="form-control" placeholder="0000 0000 0000 0000" maxlength="19" required />
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <label class="text-white small fw-bold">Validade (MM/AA)</label>
+                            <input type="text" class="form-control" placeholder="MM/AA" maxlength="5" required />
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <label class="text-white small fw-bold">CVV</label>
+                            <input type="text" class="form-control" placeholder="123" maxlength="3" required />
+                        </div>
+                    </div>
+
+                  
+                    <button id="add-card-button" type="submit" class="w-100 btn btn-primary mt-3">Salvar Cartão</button>
+
+                    <div id="success-message" class="alert alert-success mt-3 d-none">
+                        Cartão salvo com sucesso! (Simulação de tokenização)
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.getElementById('add-card-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            setTimeout(() => {
+                const successDiv = document.getElementById('success-message');
+                successDiv.classList.remove('d-none');
+
+                // Limpa o formulário 
+                this.reset();
+            }, 500);
+        });
+    </script>
+}

@@ -1,0 +1,26 @@
+﻿@model CinemaManager.Models.Session
+
+@{
+    ViewData["Title"] = "Excluir Sessão";
+}
+
+<h1 class="text-danger">Excluir Sessão</h1>
+
+<h3 class="text-white">Tem certeza que deseja excluir a sessão de: <span class="text-danger">@Model.Movie.Title</span>?</h3>
+<div class="alert alert-warning mt-3">Atenção: A exclusão desta sessão também **excluirá @Model.Tickets.Count() ingressos** vendidos. Esta ação é irreversível.</div>
+
+<div class="mt-4">
+    <dl class="row text-white">
+        <dt class="col-sm-2">Sala</dt>
+        <dd class="col-sm-10">@Model.Room.Name (@Model.Room.Type)</dd>
+
+        <dt class="col-sm-2">Horário</dt>
+        <dd class="col-sm-10">@Model.ScheduledTime.ToString("dd/MM/yyyy HH:mm")</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Excluir Permanentemente" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-outline-secondary">Cancelar</a>
+    </form>
+</div>

@@ -1,0 +1,78 @@
+﻿@page
+@model CinemaManager.Areas.Identity.Pages.Account.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="text-center mb-3">
+    <h1 style="
+        color: #E50914;
+        font-weight: 700;
+        font-size: 2.2rem; 
+        text-shadow: 2px 2px 6px #000;
+
+        background-image: url('/img/logo_cine_simbiose.png');
+        background-size: contain; 
+        background-repeat: no-repeat;
+        background-position: center center;
+
+        padding: 10px; 
+        min-height: 140px; 
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 10px; 
+    ">
+        Cine Simbiose
+    </h1>
+</div>
+<div class="row justify-content-center">
+    <div class="col-12">
+        <section>
+            <form id="account" method="post">
+                <h2>Acesse sua conta</h2>
+                <hr style="color: #666;" />
+                ...
+                ... <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <label asp-for="Input.Email" class="form-label">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                    <label asp-for="Input.Password" class="form-label">Senha</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+
+                <div class="checkbox mb-3">
+                    <label asp-for="Input.RememberMe" class="form-label text-white">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        Lembrar-me
+                    </label>
+                </div>
+
+                <div>
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Entrar</button>
+                </div>
+
+                <div class="d-flex justify-content-between align-items-center mt-3">
+                    <p class="mb-0">
+                        <a id="forgot-password" asp-page="./ForgotPassword">Esqueceu sua senha?</a>
+                    </p>
+                    <p class="mb-0">
+                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Registrar-se</a>
+                    </p>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

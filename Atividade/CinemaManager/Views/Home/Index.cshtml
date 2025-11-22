@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CinemaManager.Models.Session>
+@{
+    ViewData["Title"] = "Em Cartaz";
+}
+
+
+<div class="p-5 mb-4 bg-dark rounded-3 text-white" style="background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/img/posters/duna2.jpg'); background-size: cover; background-position: center;">
+    <div class="container-fluid py-5">
+        <h1 class="display-5 fw-bold text-danger">Bem-vindo ao Cine Simbiose</h1>
+        <p class="col-md-8 fs-5">A melhor experiência cinematográfica da cidade. Confira nossa programação e garanta seu lugar.</p>
+        @if (!User.Identity.IsAuthenticated)
+        {
+            <a class="btn btn-danger btn-lg" asp-area="Identity" asp-page="/Account/Register">Criar Conta Grátis</a>
+        }
+    </div>
+</div>
+
+<h2 class="mb-4 border-bottom border-danger pb-2 text-white">🎬 Filmes em Exibição</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">Nenhuma sessão disponível no momento.</div>
+}
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+
+    @foreach (var grupoFilme in Model.GroupBy(s => s.Movie))
+    {
+        var filme = grupoFilme.Key;
+        <div class="col">
+            <div class="card h-100 shadow border-0 bg-secondary text-white" style="background-color: #1F1F1F !important;">
+                <img src="@filme.PosterUrl" class="card-img-top" alt="@filme.Title" style="height: 400px; object-fit: cover;">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title text-white">@filme.Title</h5>
+
+              
+                    <p class="card-text small text-white-50">
+                        <span class="text-white fw-bold">@filme.Genre</span> |
+                        <span class="text-white-50">@filme.DurationMinutes min</span> |
+                        <span class="text-white fw-bold">@filme.Rating</span>
+                    </p>
+
+                    <div class="mt-auto">
+                        <h6 class="text-danger">Sessões:</h6>
+                        <div class="d-flex flex-wrap gap-2">
+                            @foreach (var sessao in grupoFilme.OrderBy(s => s.ScheduledTime))
+                            {
+                                <a asp-controller="Tickets" asp-action="Purchase" asp-route-id="@sessao.Id"
+                                   class="btn btn-sm btn-outline-light text-white">
+                                    @sessao.ScheduledTime.ToString("HH:mm")
+                                </a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
